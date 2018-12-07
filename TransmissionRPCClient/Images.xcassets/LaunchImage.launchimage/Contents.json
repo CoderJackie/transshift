@@ -1,85 +1,52 @@
 {
   "images" : [
     {
-      "extent" : "full-screen",
-      "idiom" : "iphone",
-      "subtype" : "2436h",
-      "filename" : "iOS1125_2436@3x.png",
-      "minimum-system-version" : "11.0",
-      "orientation" : "portrait",
-      "scale" : "3x"
-    },
-    {
-      "orientation" : "landscape",
-      "idiom" : "iphone",
-      "extent" : "full-screen",
-      "minimum-system-version" : "11.0",
-      "subtype" : "2436h",
-      "scale" : "3x"
-    },
-    {
-      "extent" : "full-screen",
-      "idiom" : "iphone",
-      "subtype" : "736h",
-      "filename" : "iOS1242_2208@3x.png",
-      "minimum-system-version" : "8.0",
-      "orientation" : "portrait",
-      "scale" : "3x"
-    },
-    {
-      "orientation" : "landscape",
-      "idiom" : "iphone",
-      "extent" : "full-screen",
-      "minimum-system-version" : "8.0",
-      "subtype" : "736h",
-      "scale" : "3x"
-    },
-    {
-      "extent" : "full-screen",
-      "idiom" : "iphone",
-      "subtype" : "667h",
-      "filename" : "iOS750_1334@3x.png",
-      "minimum-system-version" : "8.0",
-      "orientation" : "portrait",
-      "scale" : "2x"
-    },
-    {
       "orientation" : "portrait",
       "idiom" : "iphone",
-      "filename" : "iOS640_960@2x-1.png",
       "extent" : "full-screen",
       "minimum-system-version" : "7.0",
+      "filename" : "LaunchScreen__640x960 iPhone 4.png",
       "scale" : "2x"
     },
     {
       "extent" : "full-screen",
       "idiom" : "iphone",
       "subtype" : "retina4",
-      "filename" : "iOS640_1136@2x-1.png",
+      "filename" : "LaunchScreen__640x1136 iPhone 5.png",
       "minimum-system-version" : "7.0",
       "orientation" : "portrait",
       "scale" : "2x"
     },
     {
       "orientation" : "portrait",
-      "idiom" : "iphone",
-      "filename" : "iOS320_480.png",
+      "idiom" : "ipad",
       "extent" : "full-screen",
+      "minimum-system-version" : "7.0",
+      "filename" : "LaunchScreen__768x1024-iPad.png",
+      "scale" : "1x"
+    },
+    {
+      "orientation" : "landscape",
+      "idiom" : "ipad",
+      "extent" : "full-screen",
+      "minimum-system-version" : "7.0",
+      "filename" : "LaunchScreen__1024x768-iPad.png",
       "scale" : "1x"
     },
     {
       "orientation" : "portrait",
-      "idiom" : "iphone",
-      "filename" : "iOS640_960@2x.png",
+      "idiom" : "ipad",
       "extent" : "full-screen",
+      "minimum-system-version" : "7.0",
+      "filename" : "LaunchScreen__1536x2048-iPad Retina.png",
       "scale" : "2x"
     },
     {
-      "orientation" : "portrait",
-      "idiom" : "iphone",
-      "filename" : "iOS640_1136@2x.png",
+      "orientation" : "landscape",
+      "idiom" : "ipad",
       "extent" : "full-screen",
-      "subtype" : "retina4",
+      "minimum-system-version" : "7.0",
+      "filename" : "LaunchScreen__2048x1536-iPad Retina.png",
       "scale" : "2x"
     }
   ],
